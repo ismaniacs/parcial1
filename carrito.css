@@ -1,0 +1,19 @@
+.paga{
+    width: 40%;
+    height: 100%;
+    flex-direction: column;
+    float: right;
+    background-color: antiquewhite;
+
+}
+
+.pay{
+    flex-direction: column;
+    float: left;
+}
+
+.compra{
+    flex-direction: column;
+    float: left;
+}
+
