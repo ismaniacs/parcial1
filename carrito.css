@@ -1,3 +1,10 @@
+.compra{
+    flex-direction: column;
+    float: left;
+    border-right: solid black 1px;
+    width: 50%;
+}
+
 .paga{
     width: 40%;
     height: 100%;
@@ -26,13 +33,12 @@
     padding: 20px,20px,20px,20px;
 }
 
-.compra{
-    flex-direction: column;
-    float: left;
-}
 
 .tabla{
     width: 50%;
     height: 50%;
 }
 
+.realizarPago{
+    margin-top: 10%;
+}
